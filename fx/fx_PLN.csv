@@ -1,0 +1,144 @@
+,Currency,Name,Valid Date,Bid,Ask
+0,USD,U.S. dollar,09/05/2025,3.7504,3.7990
+1,EUR,euro,09/05/2025,4.1986,4.2906
+2,RUB,russian ruble,09/05/2025,0.0443,0.0459
+3,GBP,british pound,09/05/2025,4.9539,5.0607
+4,CHF,swiss franc,09/05/2025,4.4937,4.5954
+5,JPY,japanese yen,09/05/2025,0.0256,0.0262
+6,UAH,ukrainian hryvnia,09/05/2025,0.0903,0.0914
+7,CAD,canadian dollar,09/05/2025,2.6894,2.7323
+8,AUD,australian dollar,09/05/2025,2.3886,2.4447
+9,GEL,georgian lari,09/05/2025,1.3813,1.4014
+10,MDL,moldovan leu,09/05/2025,0.2186,0.2221
+11,CNY,chinese yuan,09/05/2025,0.5182,0.5250
+12,DKK,danish krone,09/05/2025,0.5628,0.5751
+13,NOK,norwegian krone,09/05/2025,0.3576,0.3679
+14,SEK,swedish krona,09/05/2025,0.3837,0.3932
+15,BYN,new belarusian ruble,09/05/2025,1.2403,1.2564
+16,CZK,czech koruna,09/05/2025,0.1684,0.1720
+17,ISK,iceland krona,09/05/2025,0.0289,0.0293
+18,ILS,israeli shekel,09/05/2025,1.0468,1.0750
+19,KZT,kazakhstan tenge,09/05/2025,0.0073,0.0074
+20,HUF,hungarian forint,09/05/2025,0.0103,0.0106
+21,SGD,singapore dollar,09/05/2025,2.8772,2.9320
+22,AZN,azerbaijani manat,09/05/2025,2.2061,2.2347
+23,ALL,albanian lek,09/05/2025,0.0427,0.0438
+24,DZD,algerian dinar,09/05/2025,0.0282,0.0286
+25,XCD,east caribbean dollar,09/05/2025,1.3951,1.4132
+26,AOA,angolan kwanza,09/05/2025,0.0041,0.0041
+27,ARS,argentine peso,09/05/2025,0.0034,0.0035
+28,AMD,armenian dram,09/05/2025,0.0097,0.0098
+29,AWG,aruban guilder,09/05/2025,2.0952,2.1223
+30,AFN,the afghanistan afghani,09/05/2025,0.0535,0.0542
+31,BSD,bahamian dollar,09/05/2025,3.7504,3.7990
+32,BDT,bangladesh taka,09/05/2025,0.0307,0.0314
+33,BBD,barbadian dollar,09/05/2025,1.8846,1.9090
+34,BHD,bahraini dinar,09/05/2025,9.9470,10.1016
+35,BZD,belize dollar,09/05/2025,1.8752,1.8995
+36,BMD,bermudian dollar,09/05/2025,3.7504,3.7990
+37,XOF,cfa franc bceao,09/05/2025,0.0064,0.0065
+38,BGN,bulgarian lev,09/05/2025,2.1508,2.1935
+39,BOB,bolivian boliviano,09/05/2025,0.5467,0.5538
+40,BAM,convertible mark,09/05/2025,2.1467,2.1937
+41,BWP,botswana pula,09/05/2025,0.2761,0.2806
+42,BRL,brazilian real,09/05/2025,0.6593,0.6739
+43,BND,brunei dollar,09/05/2025,2.8772,2.9320
+44,BIF,burundi franc,09/05/2025,0.0013,0.0013
+45,VUV,vanuatu vatu,09/05/2025,0.0313,0.0318
+46,BTN,bhutanese ngultrum,09/05/2025,0.0438,0.0445
+47,VND,vietnam dong,09/05/2025,0.0001,0.0001
+48,XAF,cfa franc,09/05/2025,0.0064,0.0065
+49,HTG,haitian gourde,09/05/2025,0.0286,0.0290
+50,GYD,guyanese dollar,09/05/2025,0.0179,0.0182
+51,GMD,gambian dalasi,09/05/2025,0.0527,0.0533
+52,GHS,ghanaian cedi,09/05/2025,0.2841,0.2909
+53,GTQ,guatemala quetzal,09/05/2025,0.4870,0.4946
+54,GNF,guinea franc,09/05/2025,0.0004,0.0004
+55,GIP,gibraltar pound,09/05/2025,4.9539,5.0607
+56,HNL,honduras lempira,09/05/2025,0.1441,0.1465
+57,HKD,hong kong dollar,09/05/2025,0.4821,0.4890
+58,DJF,djibouti franc,09/05/2025,0.0211,0.0214
+59,DOP,dominican peso,09/05/2025,0.0639,0.0648
+60,EGP,egyptian pound,09/05/2025,0.0740,0.0751
+61,MAD,moroccan dirham,09/05/2025,0.4056,0.4111
+62,INR,indian rupee,09/05/2025,0.0438,0.0446
+63,IDR,indonesian rupiah,09/05/2025,0.0002,0.0002
+64,JOD,jordanian dinar,09/05/2025,5.2818,5.3663
+65,IQD,iraqi dinar,09/05/2025,0.0029,0.0029
+66,YER,yemen riyal,09/05/2025,0.0150,0.0152
+67,CVE,cape verdsky escudos,09/05/2025,0.0381,0.0389
+68,KYD,cayman islands dollar,09/05/2025,4.5005,4.5588
+69,KHR,cambodian riel,09/05/2025,0.0009,0.0009
+70,QAR,qatar rial,09/05/2025,1.0303,1.0437
+71,KES,kenyan shilling,09/05/2025,0.0290,0.0294
+72,KGS,kyrgyzstani som,09/05/2025,0.0429,0.0434
+73,COP,colombian peso,09/05/2025,0.0009,0.0009
+74,KMF,comorian franc,09/05/2025,0.0085,0.0087
+75,CDF,congolese franc,09/05/2025,0.0013,0.0013
+76,KRW,south korean won,09/05/2025,0.0027,0.0027
+77,CRC,costa rica colon,09/05/2025,0.0073,0.0076
+78,CUP,cuban peso,09/05/2025,0.1563,0.1583
+79,KWD,kuwaiti dinar,09/05/2025,12.2167,12.3992
+80,LAK,lao kip,09/05/2025,0.0002,0.0002
+81,LSL,lesotsky loti,09/05/2025,0.2048,0.2095
+82,LRD,liberian dollar,09/05/2025,0.0187,0.0190
+83,LBP,lebanese pound,09/05/2025,0.0000,0.0000
+84,LYD,libyan dinar,09/05/2025,0.6834,0.6941
+85,MUR,mauritius rupee,09/05/2025,0.0815,0.0829
+86,MGA,malagasy ariary,09/05/2025,0.0008,0.0009
+87,MOP,makaosskaya patacas,09/05/2025,0.4676,0.4743
+88,MKD,macedonian denar,09/05/2025,0.0684,0.0693
+89,MWK,malawian kwacha,09/05/2025,0.0022,0.0022
+90,MYR,malaysian ringgit,09/05/2025,0.8661,0.8876
+91,MVR,maldivian rufiyaa,09/05/2025,0.2432,0.2464
+92,MXN,mexican peso,09/05/2025,0.1924,0.1951
+93,MZN,mozambican metical,09/05/2025,0.0586,0.0595
+94,MNT,mongolian tugrik,09/05/2025,0.0010,0.0011
+95,MMK,myanmar kyat,09/05/2025,0.0010,0.0011
+96,NAD,namibian dollar,09/05/2025,0.2048,0.2095
+97,NPR,nepalese rupee,09/05/2025,0.0274,0.0278
+98,NGN,nigerian naira,09/05/2025,0.0023,0.0024
+99,NIO,nicaragua cordoba,09/05/2025,0.1023,0.1039
+100,NZD,new zealand dollar,09/05/2025,2.2011,2.2501
+101,XPF,pacific franc,09/05/2025,0.0352,0.0360
+102,AED,uae dirham,09/05/2025,1.0209,1.0344
+103,OMR,omani rial,09/05/2025,9.7360,9.8742
+104,PKR,pakistani rupee,09/05/2025,0.0133,0.0135
+105,PAB,panama balboa,09/05/2025,3.7504,3.7990
+106,PGK,new guinean kina,09/05/2025,0.9177,0.9296
+107,PYG,paraguayan guarani,09/05/2025,0.0005,0.0005
+108,PEN,peruvian nuevo sol,09/05/2025,1.0275,1.0470
+109,RWF,rwanda franc,09/05/2025,0.0026,0.0027
+110,RON,romanian leu,09/05/2025,0.8201,0.8386
+111,SVC,salvadoran colon,09/05/2025,0.4286,0.4342
+112,WST,samoa tala,09/05/2025,1.3702,1.3947
+113,SAR,saudi arabian riyal,09/05/2025,0.9996,1.0131
+114,SZL,swaziland lilageni,09/05/2025,0.2048,0.2095
+115,SHP,saint helena pound,09/05/2025,4.9539,5.0607
+116,SCR,seychelles rupee,09/05/2025,0.2578,0.2611
+117,RSD,serbian dinar,09/05/2025,0.0360,0.0366
+118,SBD,solomon islands dollar,09/05/2025,0.4576,0.4684
+119,SOS,somali shilling,09/05/2025,0.0066,0.0067
+120,SDG,sudanese pound,09/05/2025,0.0084,0.0085
+121,SRD,surinamese dollar,09/05/2025,0.1022,0.1038
+122,TJS,tajik somoni,09/05/2025,0.3601,0.3648
+123,THB,thai baht,09/05/2025,0.1128,0.1156
+124,TWD,taiwan dollar,09/05/2025,0.1242,0.1262
+125,TZS,tanzanian shilling,09/05/2025,0.0014,0.0014
+126,TOP,tonga pa'ang,09/05/2025,1.6197,1.6507
+127,TTD,trinidad and tobago dollar,09/05/2025,0.5536,0.5608
+128,TND,tunisian dinar,09/05/2025,1.2443,1.2651
+129,TMT,new manat,09/05/2025,1.0702,1.0871
+130,TRY,turkish lira,09/05/2025,0.0962,0.0994
+131,UGX,ugandan shilling,09/05/2025,0.0010,0.0010
+132,UZS,uzbekistan sum,09/05/2025,0.0003,0.0003
+133,UYU,uruguayan peso,09/05/2025,0.0896,0.0910
+134,FJD,fijian dollar,09/05/2025,1.6734,1.6982
+135,PHP,philippine peso,09/05/2025,0.0672,0.0687
+136,FKP,falkland islands,09/05/2025,4.9539,5.0607
+137,CLP,chilean peso,09/05/2025,0.0040,0.0041
+138,LKR,sri lanka rupee,09/05/2025,0.0125,0.0127
+139,ETB,ethiopian birr,09/05/2025,0.0272,0.0286
+140,ZAR,south african rand,09/05/2025,0.2048,0.2095
+141,SSP,south sudanese pound,09/05/2025,0.0008,0.0008
+142,JMD,jamaican dollar,09/05/2025,0.0236,0.0239
