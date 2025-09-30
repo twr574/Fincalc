@@ -1,144 +1,149 @@
-,Currency,Name,Valid Date,Bid,Ask
-0,EUR,euro,09/05/2025,1.1195,1.1294
-1,RUB,russian ruble,09/05/2025,0.0118,0.0121
-2,GBP,british pound,09/05/2025,1.3209,1.3321
-3,CHF,swiss franc,09/05/2025,1.1982,1.2096
-4,PLN,polish zloty,09/05/2025,0.2632,0.2666
-5,JPY,japanese yen,09/05/2025,0.0068,0.0069
-6,UAH,ukrainian hryvnia,09/05/2025,0.0241,0.0241
-7,CAD,canadian dollar,09/05/2025,0.7171,0.7192
-8,AUD,australian dollar,09/05/2025,0.6369,0.6435
-9,GEL,georgian lari,09/05/2025,0.3683,0.3689
-10,MDL,moldovan leu,09/05/2025,0.0583,0.0585
-11,CNY,chinese yuan,09/05/2025,0.1382,0.1382
-12,DKK,danish krone,09/05/2025,0.1501,0.1514
-13,NOK,norwegian krone,09/05/2025,0.0954,0.0969
-14,SEK,swedish krona,09/05/2025,0.1023,0.1035
-15,BYN,new belarusian ruble,09/05/2025,0.3307,0.3307
-16,CZK,czech koruna,09/05/2025,0.0449,0.0453
-17,ISK,iceland krona,09/05/2025,0.0077,0.0077
-18,ILS,israeli shekel,09/05/2025,0.2791,0.2830
-19,KZT,kazakhstan tenge,09/05/2025,0.0019,0.0019
-20,HUF,hungarian forint,09/05/2025,0.0028,0.0028
-21,SGD,singapore dollar,09/05/2025,0.7672,0.7718
-22,AZN,azerbaijani manat,09/05/2025,0.5882,0.5882
-23,ALL,albanian lek,09/05/2025,0.0114,0.0115
-24,DZD,algerian dinar,09/05/2025,0.0075,0.0075
-25,XCD,east caribbean dollar,09/05/2025,0.3720,0.3720
-26,AOA,angolan kwanza,09/05/2025,0.0011,0.0011
-27,ARS,argentine peso,09/05/2025,0.0009,0.0009
-28,AMD,armenian dram,09/05/2025,0.0026,0.0026
-29,AWG,aruban guilder,09/05/2025,0.5587,0.5587
-30,AFN,the afghanistan afghani,09/05/2025,0.0143,0.0143
-31,BSD,bahamian dollar,09/05/2025,1.0000,1.0000
-32,BDT,bangladesh taka,09/05/2025,0.0082,0.0083
-33,BBD,barbadian dollar,09/05/2025,0.5025,0.5025
-34,BHD,bahraini dinar,09/05/2025,2.6522,2.6590
-35,BZD,belize dollar,09/05/2025,0.5000,0.5000
-36,BMD,bermudian dollar,09/05/2025,1.0000,1.0000
-37,XOF,cfa franc bceao,09/05/2025,0.0017,0.0017
-38,BGN,bulgarian lev,09/05/2025,0.5735,0.5774
-39,BOB,bolivian boliviano,09/05/2025,0.1458,0.1458
-40,BAM,convertible mark,09/05/2025,0.5724,0.5775
-41,BWP,botswana pula,09/05/2025,0.0736,0.0739
-42,BRL,brazilian real,09/05/2025,0.1758,0.1774
-43,BND,brunei dollar,09/05/2025,0.7672,0.7718
-44,BIF,burundi franc,09/05/2025,0.0003,0.0003
-45,VUV,vanuatu vatu,09/05/2025,0.0083,0.0084
-46,BTN,bhutanese ngultrum,09/05/2025,0.0117,0.0117
-47,VND,vietnam dong,09/05/2025,0.0000,0.0000
-48,XAF,cfa franc,09/05/2025,0.0017,0.0017
-49,HTG,haitian gourde,09/05/2025,0.0076,0.0076
-50,GYD,guyanese dollar,09/05/2025,0.0048,0.0048
-51,GMD,gambian dalasi,09/05/2025,0.0140,0.0140
-52,GHS,ghanaian cedi,09/05/2025,0.0758,0.0766
-53,GTQ,guatemala quetzal,09/05/2025,0.1298,0.1302
-54,GNF,guinea franc,09/05/2025,0.0001,0.0001
-55,GIP,gibraltar pound,09/05/2025,1.3209,1.3321
-56,HNL,honduras lempira,09/05/2025,0.0384,0.0386
-57,HKD,hong kong dollar,09/05/2025,0.1285,0.1287
-58,DJF,djibouti franc,09/05/2025,0.0056,0.0056
-59,DOP,dominican peso,09/05/2025,0.0171,0.0171
-60,EGP,egyptian pound,09/05/2025,0.0197,0.0198
-61,MAD,moroccan dirham,09/05/2025,0.1081,0.1082
-62,INR,indian rupee,09/05/2025,0.0117,0.0117
-63,IDR,indonesian rupiah,09/05/2025,0.0001,0.0001
-64,JOD,jordanian dinar,09/05/2025,1.4083,1.4126
-65,IQD,iraqi dinar,09/05/2025,0.0008,0.0008
-66,YER,yemen riyal,09/05/2025,0.0040,0.0040
-67,CVE,cape verdsky escudos,09/05/2025,0.0102,0.0102
-68,KYD,cayman islands dollar,09/05/2025,1.2000,1.2000
-69,KHR,cambodian riel,09/05/2025,0.0002,0.0003
-70,QAR,qatar rial,09/05/2025,0.2747,0.2747
-71,KES,kenyan shilling,09/05/2025,0.0077,0.0078
-72,KGS,kyrgyzstani som,09/05/2025,0.0114,0.0114
-73,COP,colombian peso,09/05/2025,0.0002,0.0002
-74,KMF,comorian franc,09/05/2025,0.0023,0.0023
-75,CDF,congolese franc,09/05/2025,0.0003,0.0003
-76,KRW,south korean won,09/05/2025,0.0007,0.0007
-77,CRC,costa rica colon,09/05/2025,0.0020,0.0020
-78,CUP,cuban peso,09/05/2025,0.0417,0.0417
-79,KWD,kuwaiti dinar,09/05/2025,3.2574,3.2638
-80,LAK,lao kip,09/05/2025,0.0000,0.0000
-81,LSL,lesotsky loti,09/05/2025,0.0546,0.0552
-82,LRD,liberian dollar,09/05/2025,0.0050,0.0050
-83,LBP,lebanese pound,09/05/2025,0.0000,0.0000
-84,LYD,libyan dinar,09/05/2025,0.1822,0.1827
-85,MUR,mauritius rupee,09/05/2025,0.0217,0.0218
-86,MGA,malagasy ariary,09/05/2025,0.0002,0.0002
-87,MOP,makaosskaya patacas,09/05/2025,0.1247,0.1249
-88,MKD,macedonian denar,09/05/2025,0.0182,0.0182
-89,MWK,malawian kwacha,09/05/2025,0.0006,0.0006
-90,MYR,malaysian ringgit,09/05/2025,0.2309,0.2336
-91,MVR,maldivian rufiyaa,09/05/2025,0.0649,0.0649
-92,MXN,mexican peso,09/05/2025,0.0513,0.0514
-93,MZN,mozambican metical,09/05/2025,0.0156,0.0157
-94,MNT,mongolian tugrik,09/05/2025,0.0003,0.0003
-95,MMK,myanmar kyat,09/05/2025,0.0003,0.0003
-96,NAD,namibian dollar,09/05/2025,0.0546,0.0552
-97,NPR,nepalese rupee,09/05/2025,0.0073,0.0073
-98,NGN,nigerian naira,09/05/2025,0.0006,0.0006
-99,NIO,nicaragua cordoba,09/05/2025,0.0273,0.0274
-100,NZD,new zealand dollar,09/05/2025,0.5869,0.5923
-101,XPF,pacific franc,09/05/2025,0.0094,0.0095
-102,AED,uae dirham,09/05/2025,0.2722,0.2723
-103,OMR,omani rial,09/05/2025,2.5960,2.5992
-104,PKR,pakistani rupee,09/05/2025,0.0036,0.0036
-105,PAB,panama balboa,09/05/2025,1.0000,1.0000
-106,PGK,new guinean kina,09/05/2025,0.2447,0.2447
-107,PYG,paraguayan guarani,09/05/2025,0.0001,0.0001
-108,PEN,peruvian nuevo sol,09/05/2025,0.2740,0.2756
-109,RWF,rwanda franc,09/05/2025,0.0007,0.0007
-110,RON,romanian leu,09/05/2025,0.2187,0.2208
-111,SVC,salvadoran colon,09/05/2025,0.1143,0.1143
-112,WST,samoa tala,09/05/2025,0.3653,0.3671
-113,SAR,saudi arabian riyal,09/05/2025,0.2665,0.2667
-114,SZL,swaziland lilageni,09/05/2025,0.0546,0.0552
-115,SHP,saint helena pound,09/05/2025,1.3209,1.3321
-116,SCR,seychelles rupee,09/05/2025,0.0687,0.0687
-117,RSD,serbian dinar,09/05/2025,0.0096,0.0096
-118,SBD,solomon islands dollar,09/05/2025,0.1220,0.1233
-119,SOS,somali shilling,09/05/2025,0.0017,0.0018
-120,SDG,sudanese pound,09/05/2025,0.0022,0.0022
-121,SRD,surinamese dollar,09/05/2025,0.0272,0.0273
-122,TJS,tajik somoni,09/05/2025,0.0960,0.0960
-123,THB,thai baht,09/05/2025,0.0301,0.0304
-124,TWD,taiwan dollar,09/05/2025,0.0331,0.0332
-125,TZS,tanzanian shilling,09/05/2025,0.0004,0.0004
-126,TOP,tonga pa'ang,09/05/2025,0.4319,0.4345
-127,TTD,trinidad and tobago dollar,09/05/2025,0.1476,0.1476
-128,TND,tunisian dinar,09/05/2025,0.3318,0.3330
-129,TMT,new manat,09/05/2025,0.2853,0.2862
-130,TRY,turkish lira,09/05/2025,0.0257,0.0262
-131,UGX,ugandan shilling,09/05/2025,0.0003,0.0003
-132,UZS,uzbekistan sum,09/05/2025,0.0001,0.0001
-133,UYU,uruguayan peso,09/05/2025,0.0239,0.0240
-134,FJD,fijian dollar,09/05/2025,0.4462,0.4470
-135,PHP,philippine peso,09/05/2025,0.0179,0.0181
-136,FKP,falkland islands,09/05/2025,1.3209,1.3321
-137,CLP,chilean peso,09/05/2025,0.0011,0.0011
-138,LKR,sri lanka rupee,09/05/2025,0.0033,0.0033
-139,ETB,ethiopian birr,09/05/2025,0.0073,0.0075
-140,ZAR,south african rand,09/05/2025,0.0546,0.0552
-141,SSP,south sudanese pound,09/05/2025,0.0002,0.0002
-142,JMD,jamaican dollar,09/05/2025,0.0063,0.0063
+,Currency,Name,Valid Date,Bid,Ask,Source
+0,EUR,euro,30/09/2025,1.1697,1.1758,ferates_vs
+1,RUB,russian ruble,30/09/2025,0.012,0.0121,ferates_vs
+2,GBP,british pound,30/09/2025,1.3377,1.346,ferates_vs
+3,CHF,swiss franc,30/09/2025,1.2514,1.259,ferates_vs
+4,PLN,polish zloty,30/09/2025,0.2734,0.2755,ferates_vs
+5,JPY,japanese yen,30/09/2025,0.0067,0.0067,ferates_vs
+6,UAH,ukrainian hryvnia,30/09/2025,0.0241,0.0241,ferates_vs
+7,CAD,canadian dollar,30/09/2025,0.7169,0.7194,ferates_vs
+8,AUD,australian dollar,30/09/2025,0.6542,0.6583,ferates_vs
+9,GEL,georgian lari,30/09/2025,0.3648,0.373,ferates_vs
+10,MDL,moldovan leu,30/09/2025,0.0601,0.0601,ferates_vs
+11,CNY,chinese yuan,30/09/2025,0.1404,0.1404,ferates_vs
+12,DKK,danish krone,30/09/2025,0.1566,0.1575,ferates_vs
+13,NOK,norwegian krone,30/09/2025,0.0998,0.1007,ferates_vs
+14,SEK,swedish krona,30/09/2025,0.1058,0.1068,ferates_vs
+15,BYN,new belarusian ruble,30/09/2025,0.3306,0.3306,ferates_vs
+16,CZK,czech koruna,30/09/2025,0.0481,0.0484,ferates_vs
+17,ISK,iceland krona,30/09/2025,0.0083,0.0083,ferates_vs
+18,SKK,Slovak koruna,30/09/2025,0.0388,0.039,ferates_vs
+19,ILS,israeli shekel,30/09/2025,0.2996,0.3044,ferates_vs
+20,KZT,kazakhstan tenge,30/09/2025,0.0018,0.0018,ferates_vs
+21,HUF,hungarian forint,30/09/2025,0.003,0.003,ferates_vs
+22,LVL,latvian lat,30/09/2025,1.6643,1.673,ferates_vs
+23,LTL,lithuanian lita,30/09/2025,0.3388,0.3405,ferates_vs
+24,SGD,singapore dollar,30/09/2025,0.773,0.776,ferates_vs
+25,AZN,azerbaijani manat,30/09/2025,0.5865,0.59,ferates_vs
+26,ALL,albanian lek,30/09/2025,0.0121,0.0122,ferates_vs
+27,DZD,algerian dinar,30/09/2025,0.0077,0.0077,ferates_vs
+28,XCD,east caribbean dollar,30/09/2025,0.372,0.372,ferates_vs
+29,AOA,angolan kwanza,30/09/2025,0.0011,0.0011,ferates_vs
+30,ARS,argentine peso,30/09/2025,0.0007,0.0007,ferates_vs
+31,AMD,armenian dram,30/09/2025,0.0026,0.0026,ferates_vs
+32,AWG,aruban guilder,30/09/2025,0.5587,0.5587,ferates_vs
+33,AFN,the afghanistan afghani,30/09/2025,0.0149,0.0149,ferates_vs
+34,BSD,bahamian dollar,30/09/2025,1.0,1.0,ferates_vs
+35,BDT,bangladesh taka,30/09/2025,0.0082,0.0083,ferates_vs
+36,BBD,barbadian dollar,30/09/2025,0.5025,0.5025,ferates_vs
+37,BHD,bahraini dinar,30/09/2025,2.6525,2.6525,ferates_vs
+38,BZD,belize dollar,30/09/2025,0.5,0.5,ferates_vs
+39,BMD,bermudian dollar,30/09/2025,1.0,1.0,ferates_vs
+40,XOF,cfa franc bceao,30/09/2025,0.0018,0.0018,ferates_vs
+41,BGN,bulgarian lev,30/09/2025,0.5981,0.6012,ferates_vs
+42,BOB,bolivian boliviano,30/09/2025,0.1437,0.1458,ferates_vs
+43,BAM,convertible mark,30/09/2025,0.5981,0.6012,ferates_vs
+44,BWP,botswana pula,30/09/2025,0.0695,0.0808,ferates_vs
+45,BRL,brazilian real,30/09/2025,0.187,0.1885,ferates_vs
+46,BND,brunei dollar,30/09/2025,0.773,0.776,ferates_vs
+47,BIF,burundi franc,30/09/2025,0.0003,0.0003,ferates_vs
+48,VUV,vanuatu vatu,30/09/2025,0.0081,0.0086,ferates_vs
+49,BTN,bhutanese ngultrum,30/09/2025,0.0113,0.0113,ferates_vs
+50,VEF,venezuelan bolivar,30/09/2025,0.0056,0.0056,ferates_vs
+51,XAF,cfa franc,30/09/2025,0.0018,0.0018,ferates_vs
+52,HTG,haitian gourde,30/09/2025,0.0076,0.0076,ferates_vs
+53,GYD,guyanese dollar,30/09/2025,0.0048,0.0048,ferates_vs
+54,GMD,gambian dalasi,30/09/2025,0.0139,0.0139,ferates_vs
+55,GHS,ghanaian cedi,30/09/2025,0.0803,0.081,ferates_vs
+56,GTQ,guatemala quetzal,30/09/2025,0.1303,0.1306,ferates_vs
+57,GNF,guinea franc,30/09/2025,0.0001,0.0001,ferates_vs
+58,GIP,gibraltar pound,30/09/2025,1.3377,1.346,ferates_vs
+59,HNL,honduras lempira,30/09/2025,0.0383,0.0383,ferates_vs
+60,HKD,hong kong dollar,30/09/2025,0.1285,0.1286,ferates_vs
+61,DJF,djibouti franc,30/09/2025,0.0056,0.0056,ferates_vs
+62,DOP,dominican peso,30/09/2025,0.016,0.0161,ferates_vs
+63,EGP,egyptian pound,30/09/2025,0.0208,0.0208,ferates_vs
+64,MAD,moroccan dirham,30/09/2025,0.1103,0.1103,ferates_vs
+65,INR,indian rupee,30/09/2025,0.0113,0.0113,ferates_vs
+66,IDR,indonesian rupiah,30/09/2025,0.0001,0.0001,ferates_vs
+67,JOD,jordanian dinar,30/09/2025,1.4085,1.4124,ferates_vs
+68,IQD,iraqi dinar,30/09/2025,0.0008,0.0008,ferates_vs
+69,YER,yemen riyal,30/09/2025,0.004,0.004,ferates_vs
+70,CVE,cape verdsky escudos,30/09/2025,0.0106,0.0107,ferates_vs
+71,KYD,cayman islands dollar,30/09/2025,1.2,1.2,ferates_vs
+72,KHR,cambodian riel,30/09/2025,0.0003,0.0003,ferates_vs
+73,QAR,qatar rial,30/09/2025,0.2743,0.2744,ferates_vs
+74,KES,kenyan shilling,30/09/2025,0.0077,0.0078,ferates_vs
+75,KGS,kyrgyzstani som,30/09/2025,0.0114,0.0114,ferates_vs
+76,COP,colombian peso,30/09/2025,0.0003,0.0003,ferates_vs
+77,KMF,comorian franc,30/09/2025,0.0024,0.0024,ferates_vs
+78,CDF,congolese franc,30/09/2025,0.0004,0.0004,ferates_vs
+79,KRW,south korean won,30/09/2025,0.0007,0.0007,ferates_vs
+80,CRC,costa rica colon,30/09/2025,0.002,0.002,ferates_vs
+81,KWD,kuwaiti dinar,30/09/2025,3.2718,3.275,ferates_vs
+82,LSL,lesotsky loti,30/09/2025,0.0574,0.058,ferates_vs
+83,LRD,liberian dollar,30/09/2025,0.0056,0.0056,ferates_vs
+84,LYD,libyan dinar,30/09/2025,0.1853,0.1853,ferates_vs
+85,MUR,mauritius rupee,30/09/2025,0.0218,0.022,ferates_vs
+86,MRO,mauritania ougulya,30/09/2025,0.0025,0.0025,ferates_vs
+87,MGA,malagasy ariary,30/09/2025,0.0002,0.0002,ferates_vs
+88,MOP,makaosskaya patacas,30/09/2025,0.1246,0.1249,ferates_vs
+89,MKD,macedonian denar,30/09/2025,0.019,0.019,ferates_vs
+90,MWK,malawian kwacha,30/09/2025,0.0006,0.0006,ferates_vs
+91,MYR,malaysian ringgit,30/09/2025,0.2369,0.2379,ferates_vs
+92,MVR,maldivian rufiyaa,30/09/2025,0.0645,0.0649,ferates_vs
+93,MXN,mexican peso,30/09/2025,0.0545,0.0547,ferates_vs
+94,MZN,mozambican metical,30/09/2025,0.0158,0.0158,ferates_vs
+95,MNT,mongolian tugrik,30/09/2025,0.0003,0.0003,ferates_vs
+96,MMK,myanmar kyat,30/09/2025,0.0003,0.0003,ferates_vs
+97,NAD,namibian dollar,30/09/2025,0.0574,0.058,ferates_vs
+98,NPR,nepalese rupee,30/09/2025,0.007,0.0071,ferates_vs
+99,NGN,nigerian naira,30/09/2025,0.0007,0.0007,ferates_vs
+100,NIO,nicaragua cordoba,30/09/2025,0.0273,0.0273,ferates_vs
+101,NZD,new zealand dollar,30/09/2025,0.5763,0.5802,ferates_vs
+102,XPF,pacific franc,30/09/2025,0.0098,0.0099,ferates_vs
+103,AED,uae dirham,30/09/2025,0.2722,0.2723,ferates_vs
+104,OMR,omani rial,30/09/2025,2.5971,2.5975,ferates_vs
+105,PKR,pakistani rupee,30/09/2025,0.0036,0.0036,ferates_vs
+106,PAB,panama balboa,30/09/2025,1.0,1.0,ferates_vs
+107,PGK,new guinean kina,30/09/2025,0.2314,0.2389,ferates_vs
+108,PYG,paraguayan guarani,30/09/2025,0.0001,0.0001,ferates_vs
+109,PEN,peruvian nuevo sol,30/09/2025,0.2873,0.2875,ferates_vs
+110,RWF,rwanda franc,30/09/2025,0.0007,0.0007,ferates_vs
+111,RON,romanian leu,30/09/2025,0.2302,0.2316,ferates_vs
+112,SVC,salvadoran colon,30/09/2025,0.1143,0.1143,ferates_vs
+113,WST,samoa tala,30/09/2025,0.3498,0.3693,ferates_vs
+114,SAR,saudi arabian riyal,30/09/2025,0.2666,0.2667,ferates_vs
+115,SZL,swaziland lilageni,30/09/2025,0.0574,0.058,ferates_vs
+116,SHP,saint helena pound,30/09/2025,1.3377,1.346,ferates_vs
+117,SCR,seychelles rupee,30/09/2025,0.0687,0.0687,ferates_vs
+118,RSD,serbian dinar,30/09/2025,0.01,0.01,ferates_vs
+119,SYP,syrian pound,30/09/2025,0.0002,0.0002,ferates_vs
+120,SBD,solomon islands dollar,30/09/2025,0.1185,0.126,ferates_vs
+121,SOS,somali shilling,30/09/2025,0.0018,0.0018,ferates_vs
+122,SDG,sudanese pound,30/09/2025,0.0017,0.0017,ferates_vs
+123,SRD,surinamese dollar,30/09/2025,0.0264,0.0267,ferates_vs
+124,TJS,tajik somoni,30/09/2025,0.1064,0.1064,ferates_vs
+125,THB,thai baht,30/09/2025,0.031,0.0311,ferates_vs
+126,TWD,taiwan dollar,30/09/2025,0.0328,0.0328,ferates_vs
+127,TZS,tanzanian shilling,30/09/2025,0.0004,0.0004,ferates_vs
+128,TOP,tonga pa'ang,30/09/2025,0.4065,0.426,ferates_vs
+129,TTD,trinidad and tobago dollar,30/09/2025,0.1491,0.1491,ferates_vs
+130,TND,tunisian dinar,30/09/2025,0.3428,0.344,ferates_vs
+131,TMT,new manat,30/09/2025,0.2865,0.2865,ferates_vs
+132,TRY,turkish lira,30/09/2025,0.024,0.0242,ferates_vs
+133,UGX,ugandan shilling,30/09/2025,0.0003,0.0003,ferates_vs
+134,UZS,uzbekistan sum,30/09/2025,0.0001,0.0001,ferates_vs
+135,UYU,uruguayan peso,30/09/2025,0.0251,0.0251,ferates_vs
+136,FJD,fijian dollar,30/09/2025,0.4311,0.4431,ferates_vs
+137,PHP,philippine peso,30/09/2025,0.0172,0.0172,ferates_vs
+138,FKP,falkland islands,30/09/2025,1.3377,1.346,ferates_vs
+139,HRK,croatian kuna,30/09/2025,0.1552,0.1561,ferates_vs
+140,CLP,chilean peso,30/09/2025,0.001,0.001,ferates_vs
+141,LKR,sri lanka rupee,30/09/2025,0.0033,0.0033,ferates_vs
+142,ERN,the eritrean nakfa,30/09/2025,0.0667,0.0667,ferates_vs
+143,ETB,ethiopian birr,30/09/2025,0.0069,0.0069,ferates_vs
+144,ZAR,south african rand,30/09/2025,0.0574,0.058,ferates_vs
+145,SSP,south sudanese pound,30/09/2025,0.0002,0.0002,ferates_vs
+146,JMD,jamaican dollar,30/09/2025,0.0063,0.0063,ferates_vs
+147,IRR,Iranian Rial,30/09/2025,2.4e-05,2.4e-05,x-rates

@@ -45,6 +45,14 @@ cost = fxrates.transcost(price,curr,trans_curr,fee)[0]
 print(f'\nAssuming a transaction fee of {fee*100}%,'
       f'\nit will cost {cost} {curr} to purchase an item worth {price} {trans_curr}.')
 
+time.sleep(1)
+
+print('\nScraping the internet for FX currency data...')
+
+fxrates.fxscrape()
+
+print('\nCompleted!')
+
 time.sleep(3)
 
 # %%
