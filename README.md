@@ -5,6 +5,12 @@ A Python-based collection of finance-related modules.
 
 Download the repo and open demo<area>.py for a demonstration of some of the features included.
 
+This was originally tested and working using the Spyder IDE included in the Anaconda platform. 
+
+The demo can also be run outside of an IDE using demo<area>.bat, which will run the demo using the Python environment located at env_path<area>.cfg (this must be edited to contain the correct path).
+
+The correct dependencies will still need to be installed in that environment if they are not already installed.
+
 ## Features
 
 - Exchange rate information utility `fxrates`, which can be used to crawl exchange rate data to calculate the cost of transactions between currencies.
